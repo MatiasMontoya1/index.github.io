@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../../../Desktop/Monty/img"
+		},
+		{
+			"name": "index.html",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
